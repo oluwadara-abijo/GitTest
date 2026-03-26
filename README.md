@@ -1,5 +1,7 @@
 # Gitty App
 
+This is a clone of my [GittyApp](https://github.com/oluwadara-abijo/Gitty) repo. This version is fortesting purposes.
+
 A modern Android application built with Jetpack Compose for interacting with GitHub repositories and users.
 
 ## Overview
