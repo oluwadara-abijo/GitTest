@@ -48,4 +48,5 @@ Resolve merge conflict.
 Line 1 - Local
 Line 2 - Local
 Line 3 - Remote
+Line 4 - Local
 -->
