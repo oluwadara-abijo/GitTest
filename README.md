@@ -44,5 +44,7 @@ This is a multi-line comment.
 It can span across multiple lines.
 
 Yet another line of comment.
-Resolve merge conflict
+Resolve merge conflict.
+Line 1 - Local
+Line 2 - Local
 -->
