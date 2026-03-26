@@ -37,3 +37,9 @@ Gitty App provides a user-friendly interface for searching GitHub repositories o
 For any questions or feedback, please contact [oluwadara.abijo@gmail.com](mailto:your-email@example.com).
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/oluwadaraabijo/im-a-cm-b.svg)](https://www.codementor.io/@oluwadaraabijo?refer=badge)
+
+
+<!--
+This is a multi-line comment.
+It can span across multiple lines.
+-->
